@@ -1,12 +1,14 @@
-# Welcome to Senbula!
+![White Senbula logo in front of a textured horizontal banner on white](https://raw.githubusercontent.com/senbula/.github/main/profile/senbula-banner.jpeg)
 
-<!--
+## Hey, this is Senbula 👋
 
-**Here are some ideas to get you started:**
+We are building Senbula on GitHub.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🍿 Community
+We aim to create a welcoming and inclusive community. Please note that all Senbula's projects are governed by the [code of conduct](https://github.com/senbula/.github/blob/main/CODE_OF_CONDUCT.md).
+
+## Questions?
+For troubleshooting and questions or any other matters, please check out our GitHub Discussions and join us on [Discord Server](https://discord.com/).
+
+## Contributing
+Instructions on how to contribute can be found in the [Contribution guidelines](https://github.com/senbula/.github/blob/main/CONTRIBUTING.md). Other useful instructions for development can be found in the [Development guide page](https://github.com/senbula/.github/blob/main/DEVELOPMENT.md).
