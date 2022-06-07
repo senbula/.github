@@ -103,11 +103,11 @@ Here's a list of project currently ongoing in the organization:
 
 | Repository         | Responsibility                                              | Leads              |
 | ------------------ | ----------------------------------------------------------- | ------------------ |
-| senbula.com        | Build and maintain the front-end and web, mobile platoforms | @wibb36            |
-| senbula-servers    | Build and maintain the back-end and middleware              | @wibb36            |
-| project management | manage Senbula projects on GitHub                           | @wibb36, @slamlatr |
-| Docs               | Improve docs and translate to other languages               | @wibb36            |
-| Content            | Create content, posts and videos                            | @wibb36, @slamlatr |
+| senbula.com        | Build and maintain the front-end and web, mobile platoforms | [@wibb36](https://github.com/wibb36)            |
+| senbula-servers    | Build and maintain the back-end and middleware              | [@wibb36](https://github.com/wibb36)            |
+| project management | manage Senbula projects on GitHub                           | [@wibb36](https://github.com/wibb36), [@slamlatr](https://github.com/slamlatr) |
+| Docs               | Improve docs and translate to other languages               | [@wibb36](https://github.com/wibb36)            |
+| Content            | Create content, posts and videos                            | [@wibb36](https://github.com/wibb36), [@slamlatr](https://github.com/slamlatr) |
 
 ## Team management policies
 
